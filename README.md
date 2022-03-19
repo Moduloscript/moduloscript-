@@ -52,11 +52,13 @@
   ---
 
 ### :fire: My Stats :
-   [![Modulo's Streak](http://github-readme-streak-stats.herokuapp.com?user=moduloscript&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
+   [![Modulo's Streak](http://github-readme-streak-stats.herokuapp.com?user=modulo&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
    ![Modulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=moduloscript&show_icons=true&theme=radical) 
 ---
 
 ### :writing_hand: Blog Posts :
+   <!-- BLOG-POST-LIST:START -->
+   <!-- BLOG-POST-LIST:END -->   
        
 </div>
 </div>
